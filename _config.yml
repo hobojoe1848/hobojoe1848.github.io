@@ -1,6 +1,6 @@
 # Site settings
 title: juliansequeira.dev
-description: "A blog about lorem ipsum ..."
+description: "My little patch of the Internet to talk the talk and drop some knowledge"
 # baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-template' to ''  <-- Commented out by JS on initial build
 baseurl: ''
 # url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io' <-- Commented out by JS on initial build
