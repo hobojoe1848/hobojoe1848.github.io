@@ -1,10 +1,10 @@
 ---
-title: 'PyCon 2019 Cleveland, Ohio &#8211; Day 1'
+title: "PyCon 2019 Cleveland, Ohio &#8211; Day 1"
 date: 2019-06-10T23:32:54+11:00
 author: Julian
 layout: post
 permalink: pycon-2019-cleveland-ohio-day-1
-description: 'Recount of Day 1 at PyCon 2019 in Cleveland, Ohio'
+description: "Recount of Day 1 at PyCon 2019 in Cleveland, Ohio"
 categories:
   - Personal
 tags:
