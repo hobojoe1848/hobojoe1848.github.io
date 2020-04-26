@@ -1,6 +1,6 @@
 ---
 title: "Isolation Projects"
-date: 2020-04-11T16:09:11+1000
+date: 2020-04-26T16:06:11+1000
 author: Julian
 layout: post
 permalink: isolation-projects
