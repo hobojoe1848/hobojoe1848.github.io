@@ -3,6 +3,7 @@ title: "Saturday Gaming Sessions"
 date: 2020-06-29T19:39:00+1000
 author: Julian
 layout: post
+comments: True
 permalink: gaming-sessions
 author: Julian
 description: "I've started to get back into gaming and it's amazing!"
