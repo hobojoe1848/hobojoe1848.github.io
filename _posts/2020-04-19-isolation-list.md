@@ -3,6 +3,7 @@ title: "Isolation Projects"
 date: 2020-04-26T16:06:11+1000
 author: Julian
 layout: post
+comments: True
 permalink: isolation-projects
 author: Julian
 description: "List of projects I want to do around the house while we're all stuck inside."

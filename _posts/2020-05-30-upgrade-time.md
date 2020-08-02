@@ -3,6 +3,7 @@ title: "PC Upgrade Time"
 date: 2020-05-17T15:55:00+1000
 author: Julian
 layout: post
+comments: True
 permalink: upgrade-time
 author: Julian
 description: "Time for a PC Upgrade. Boy am I out of touch!"
